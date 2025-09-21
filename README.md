@@ -30,7 +30,7 @@ This repository will host the complete open-source project including:
 
 ## Features
 
-- Variable clock speed. Programs can be run in two modes:
+- Variable clock speeds. Programs can be run in two modes:
   - Single step mode - clock is controlled with a push button.
   - Auto mode - a variable 555 timer clock (~1Hz up to 1KHz) or a fixed 1MHz oscillator.
  
