@@ -12,7 +12,7 @@ Alongside my undergraduate studies in Electrical & Electronic Engineering at Uls
 
 At a time when Artificial Intelligence is becoming mainstream, understanding computer hardware is more important than ever. The goal of this repo is to provide a learning CPU/SoC platform that others can study, rebuild or extend themselves.
 
-This repository will host the complete open-source project, including:
+This repository will host the complete open-source project including:
 
 🔨 Schematics, PCB and Gerber files.
 
@@ -30,7 +30,13 @@ This repository will host the complete open-source project, including:
 
 ## Features
 
-- 
+- Variable clock speed. Programs can be run in two modes:
+  - Single step mode - clock is controlled with a push button.
+  - Auto mode - a variable 555 timer clock (~1Hz up to 1KHz) or a fixed 1MHz oscillator.
+ 
+- CPU can be programmed
+
+- Shared data/address bus
 
 ---
 
