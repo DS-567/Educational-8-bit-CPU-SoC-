@@ -6,13 +6,15 @@
 
 ---
 
-## Overview
-
-## Features?
+## 1. Project Overview
 
 ---
 
-## Architecture
+## 2. Features
+
+---
+
+## 3. Architecture
 
 ### CPU
 
@@ -20,14 +22,14 @@
 
 ---
 
-## Hardware Build
+## 4. Builds
 
 ---
 
-## FPGA Build
+## 5. Getting Started
 
 ---
 
-## Python Emulator
+## 6. Ongoing Work
 
 ---
