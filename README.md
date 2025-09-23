@@ -29,7 +29,7 @@ This repository will host the complete open-source project including:
 ## CPU / SoC Features
 
 - **Variable clock speeds. Programs can be run in two modes:**
-  - Single-step mode – step-by-step execution with a push button.
+  - Single-step mode – step by step execution with a push button.
   - Auto mode – run continuously with either a variable 555 timer clock (~1 Hz to 1 kHz) or a fixed 1 MHz oscillator.
 - **Two programming modes:**
   - Manually with DIP switches to select memory address and instructions / data.
