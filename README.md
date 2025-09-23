@@ -58,14 +58,15 @@ This repository will host the complete open-source project including:
   - Up to 8 micro-steps per instruction.
   - Python script to generate EEPROM data.
 - **Instruction-Set-Architecture (ISA):**
-  - Load.
-  - Store.
+  - Load / store.
   - Move.
   - Arithmetic operations.
-  - In
-  - 10 branch instructions.
+  - In / out
+  - Push / pop.
+  - Compare.
+  - Unconditional jump / jump to sub-routine.
+  - Conditional branches.
 - **Shared 8-bit data/address bus.**
-- ****
 - **Supported addressing modes:**
   - ??.
   - ??.
