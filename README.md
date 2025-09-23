@@ -28,8 +28,14 @@ This repository will host the complete open-source project including:
 
 ## Architecture
 
+The architecture can be viewed below:
+
 <p align="center">
-  <img src="images/breadboard_pcb.PNG" alt="Architecture " width="10000"/>
+  <img src="images/breadboard_pcb.PNG" alt="Architecture high level" width="500"/>
+</p>
+
+<p align="center">
+  <img src="images/breadboard_pcb.PNG" alt="Architecture " width="500"/>
 </p>
 
 ## CPU / SoC Features
