@@ -26,7 +26,7 @@ This repository will host the complete open-source project including:
 
 ---
 
-## Architecture
+## Hardware Layout
 
 A layout of the hardware setup can be viewed below:
 
@@ -34,11 +34,17 @@ A layout of the hardware setup can be viewed below:
   <img src="images/architecture_high_level.PNG" alt="Architecture high level" width="700"/>
 </p>
 
+---
+
+## Architecture
+
 The architecture in more detail is shown below:
 
 <p align="center">
   <img src="images/architecture.PNG" alt="Architecture " width="900"/>
 </p>
+
+---
 
 ## CPU / SoC Features
 
