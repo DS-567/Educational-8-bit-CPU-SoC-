@@ -72,7 +72,7 @@ This repository will host the complete open-source project including:
   - ??.
 - **SoC Peripherals:**
   - A peripheral enable register (PER_EN).
-  - A 4-digit, seven segment display register that can be configured as unsigned or signed representation (two's complement).
+  - A 4-digit, seven segment display register (DISP) that can be configured as unsigned or signed representation (two's complement).
   - An LCD display with dedicated read / write instructions.
   - A UART at 19,200 baud rate, with status read and receive interrupt.
   - A configurable 8-bit timer with 8-bit clock prescaler register, with count read and zero / compare interrupts.
