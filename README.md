@@ -76,12 +76,12 @@ This repository will host the complete open-source project including:
   - An LCD display with dedicated read / write instructions.
   - A UART at 19,200 baud rate, with status read and receive interrupt.
   - A configurable 8-bit timer with 8-bit clock prescaler register, with count read and zero / compare interrupts.
-  - GPIO - 4 input registers (up to 32-bits) and 4 output registers (up to 32-bits).
+  - I/O - 4 general purpose inputs and outputs (up to 32-bits each).
 - **4 CPU Interrupts (rising edge trigger):**
   - 2 external.
   - 1 UART.
   - 1 timer.
-- **LEDs on all registers and combinatory logic to show the key states of the CPU at all times**.
+- **All CPU states and registers are shown on LEDs**.
 
 ---
 
