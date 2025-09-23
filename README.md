@@ -62,7 +62,8 @@ This repository will host the complete open-source project including:
   - Store.
   - Move.
   - Arithmetic operations.
-  - In 
+  - In
+  - 10 branch instructions.
 - **Shared 8-bit data/address bus.**
 - ****
 - **Supported addressing modes:**
