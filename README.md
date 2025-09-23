@@ -104,7 +104,7 @@ The architecture in more detail is shown below:
 
 ---
 
-## Builds
+## Repo Structure
 
 ---
 
