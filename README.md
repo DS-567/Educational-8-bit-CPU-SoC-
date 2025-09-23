@@ -6,11 +6,9 @@
 
 ## Project Overview
 
-Alongside my part-time undergraduate studies in Electrical & Electronic Engineering at Ulster University, I designed and built a simple 8-bit CPU using discrete TTL ICs on breadboards. What started as an electronics project quickly became a deep interest in computer architecture CPU hardware. Now at the end of my PhD, I revisited the project in my free time and created an improved SoC-based, CMOS version on PCBs. This updated design will be provided to Ulster University so that other students can interact with and learn how CPUs work. An FPGA implementation and Python simulator of the CPU/SoC will also be shared here soon.
+Alongside my part-time undergraduate studies in Electrical & Electronic Engineering at Ulster University, I designed and built a simple 8-bit CPU using discrete TTL ICs on breadboards. What started as an electronics project quickly became a deep interest in computer architecture CPU hardware. Now at the end of my PhD, I revisited the project in my free time and created an improved SoC-based, CMOS version on PCBs. This updated design will be provided to Ulster University so that others can interact with and learn how CPUs work at a basic level. The goal of this repo is to provide a learning CPU/SoC platform that others can use.
 
-At a time when Artificial Intelligence is becoming mainstream, understanding computer hardware is more important than ever. The goal of this repo is to provide a learning CPU/SoC platform that others can use.
-
-This repository will host the complete open-source project including:
+The PCB board files are shared here if anybody wants to recreate or modify the design. Additionally, a Python simulator and FPGA implementation of the CPU/SoC will also be shared here soon. This repository will host the complete open-source project including:
 
 🔨 Schematics, PCB and Gerber files.
 
@@ -38,7 +36,7 @@ A layout of the hardware setup can be viewed below:
 
 ## Architecture
 
-The architecture in more detail is shown below:
+The architecture is shown below in more detail. The core CPU PCBs are printed blue and the SoC peripherals are printed black, as highlighted on the bottom of the diagram.
 
 <p align="center">
   <img src="images/architecture.PNG" alt="Architecture " width="900"/>
@@ -55,12 +53,12 @@ The architecture in more detail is shown below:
   - Manually with DIP switches to select memory address and instructions / data.
   - Automatically with a custom Arduino Nano PCB and shift registers.
 - **1kB total system memory (dual port SRAM IC):**
-  - 256 byte program memory (read-only).
-  - 256 byte data memory.
-  - 256 byte stack memory.
-  - 256 byte UART buffer memory.
+  - 256 bytes of program memory (read-only).
+  - 256 bytes of data memory.
+  - 256 bytes of stack memory.
+  - 256 bytes for UART buffer memory.
 - **4 general purpose registers:**
-  - r0, r1, r2 and Accumulator.
+  - r0, r1, r2 and Accumulator (ACC).
 - **5 special purpose registers:**
   - Memory Address register (MAR).
   - Program Counter (PC).
@@ -116,21 +114,21 @@ The architecture in more detail is shown below:
 
 ⚠️ Note, this project is still in progress. 
 
-**Hardware**
+### Hardware
 
 Most of the hardware CPU / SoC is complete.
 
 - The TIMER PCB needs manufactured and verified.
-- The ARDUINO PCB needs modified...
 
-**Python Assembler**
+### Python Assembler
 
-A rough Python assembler script has been written for assembly programs, and requires the following additional features:
+A rough Python assembler script has been written for assembly programs, but requires the following additional features:
 
 - immediates in binary, hex etc.
 
-**Python Simulator**
+### Python Simulator
 
-**FPGA Implementation**
+
+### FPGA Implementation
 
 ---
