@@ -53,7 +53,7 @@ The architecture in more detail is shown below:
   - Auto mode – run continuously with either a variable 555 timer clock (~1 Hz to 1 kHz) or a fixed 1 MHz oscillator.
 - **Two programming modes:**
   - Manually with DIP switches to select memory address and instructions / data.
-  - Automatically with an Arduino Nano and shift registers.
+  - Automatically with a custom Arduino Nano PCB and shift registers.
 - **1kB total system memory (dual port SRAM IC):**
   - 256 byte program memory.
   - 256 byte data memory.
