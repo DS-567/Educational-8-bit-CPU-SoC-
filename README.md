@@ -40,7 +40,7 @@ This repository will host the complete open-source project including:
   - 256 byte stack memory.
   - 256 byte UART buffer memory.
 - **4 general purpose registers:**
-  - r0, r1, r2 and the accumulator.
+  - r0, r1, r2 and accumulator.
 - **5 special purpose registers:**
   - Memory Address register (MAR).
   - Program Counter (PC).
