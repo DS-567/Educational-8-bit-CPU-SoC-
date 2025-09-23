@@ -76,7 +76,7 @@ This repository will host the complete open-source project including:
   - A UART at 19,200 baud rate, with status read and receive interrupt.
   - A configurable 8-bit timer with 8-bit clock prescaler register, with count read and zero / compare interrupts.
   - I/O - 4 general purpose inputs and outputs (up to 32-bits each).
-- **4 CPU Interrupts (rising edge trigger):**
+- **4-channel CPU Interrupt controller (INT_CTRL), all rising-edge triggered:**
   - 2 external.
   - 1 UART.
   - 1 timer.
