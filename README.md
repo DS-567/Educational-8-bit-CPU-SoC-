@@ -53,7 +53,7 @@ This repository will host the complete open-source project including:
   - Shift left / right (logical).
   - Shift right (arithmetic).
   - Increment / decrement.
-  - Generates Carry (CF), Zero (ZF), Negative (NF) and Overflow (OVF) flags
+  - Generates Carry (CF), Zero (ZF), Negative (NF) and Overflow (OVF) flags.
 - **Micro-coded control unit (CU) with 3 EEPROMs**.
   - Up to 8 micro-steps per instruction.
   - Python script to generate EEPROM data.
