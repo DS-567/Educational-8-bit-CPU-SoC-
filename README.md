@@ -26,6 +26,12 @@ This repository will host the complete open-source project including:
 
 ---
 
+## Architecture
+
+<p align="center">
+  <img src="images/breadboard_pcb.PNG" alt="Architecture " width="10000"/>
+</p>
+
 ## CPU / SoC Features
 
 - **Variable clock speeds. Programs can be run in two modes:**
@@ -81,14 +87,6 @@ This repository will host the complete open-source project including:
   - 1 UART.
   - 1 timer.
 - **All CPU states and registers are shown on LEDs**.
-
----
-
-## Architecture
-
-### CPU
-
-### SoC
 
 ---
 
