@@ -4,8 +4,6 @@
   <img src="images/breadboard_pcb.PNG" alt="breadboard pcb " width="10000"/>
 </p>
 
----
-
 ## Project Overview
 
 Alongside my undergraduate studies in Electrical & Electronic Engineering at Ulster University, I designed and built a simple 8-bit CPU using discrete TTL ICs on breadboards. What started as an electronics project quickly became a deep interest in computer architecture CPU hardware. Now at the end of my PhD, I revisited the project in my free time and created an improved SoC-based version on PCBs. This updated design will be provided to Ulster University so that other students can interact with and learn how CPUs work. An FPGA implementation and Python simulator of the CPU/SoC will also be shared here soon.
