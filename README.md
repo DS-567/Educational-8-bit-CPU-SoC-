@@ -55,7 +55,7 @@ The architecture in more detail is shown below:
   - Manually with DIP switches to select memory address and instructions / data.
   - Automatically with a custom Arduino Nano PCB and shift registers.
 - **1kB total system memory (dual port SRAM IC):**
-  - 256 byte program memory.
+  - 256 byte program memory (read-only).
   - 256 byte data memory.
   - 256 byte stack memory.
   - 256 byte UART buffer memory.
@@ -113,5 +113,24 @@ The architecture in more detail is shown below:
 ---
 
 ## Ongoing Work
+
+⚠️ Note, this project is still in progress. 
+
+**Hardware**
+
+Most of the hardware CPU / SoC is complete.
+
+- The TIMER PCB needs manufactured and verified.
+- The ARDUINO PCB needs modified...
+
+**Python Assembler**
+
+A rough Python assembler script has been written for assembly programs, and requires the following additional features:
+
+- immediates in binary, hex etc.
+
+**Python Simulator**
+
+**FPGA Implementation**
 
 ---
