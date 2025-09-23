@@ -61,7 +61,6 @@ This repository will host the complete open-source project including:
   - Load / store.
   - Move.
   - Arithmetic operations.
-  - In / out
   - Push / pop.
   - Compare.
   - Unconditional jump / jump to sub-routine.
