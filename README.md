@@ -85,8 +85,10 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
   - Conditional branches.
 - **Shared 8-bit data/address bus.**
 - **Supported addressing modes:**
-  - ??.
-  - ??.
+  - Immediate.
+  - Register.
+  - Direct and indirect.
+  - SP relative.
 - **SoC Peripherals:**
   - A peripheral enable register (PER_EN).
   - A 4-digit, seven segment display register (DISP) that can be configured as unsigned or signed representation (two's complement).
