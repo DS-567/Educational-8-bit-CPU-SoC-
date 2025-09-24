@@ -116,23 +116,11 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
 
 ## Ongoing Work
 
-⚠️ Note, this project is still in progress. 
+⚠️ **Note, this project is still in progress and the following tasks are pending:**
 
-### Hardware
-
-Most of the hardware CPU / SoC is complete.
-
-- The TIMER PCB needs manufactured and verified.
-
-### Python Assembler
-
-A rough Python assembler script has been written for assembly programs, but requires the following additional features:
-
-- immediates in binary, hex etc.
-
-### Python Simulator
-
-
-### FPGA Implementation
-
----
+- [x] **Core CPU hardware.**
+- [ ] **SoC hardware design (just Timer PCB remaining).**
+- [ ] **Updated Python assembler**.
+- [ ] **Python-based CPU/SoC simulator**.
+- [ ] **FPGA implementation**.
+- [ ] **C compiler**.
