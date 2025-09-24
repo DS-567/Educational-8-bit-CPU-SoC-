@@ -97,7 +97,7 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
   - An LCD display with dedicated read / write instructions.
   - A UART at 19,200 baud rate, with status read and receive interrupt.
   - A configurable 8-bit timer with 8-bit clock prescaler register, with count read and zero / compare interrupts.
-  - I/O - 4 general purpose inputs and outputs (up to 32-bits each).
+  - I/O - 4 general purpose inputs and output ports (32-bits of total I/O).
 - **4-channel CPU Interrupt controller (INT_CTRL), all rising-edge triggered:**
   - 2 external.
   - 1 UART.
