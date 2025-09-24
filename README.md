@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Alongside my part-time undergraduate studies in Electrical & Electronic Engineering at Ulster University, I designed and built a simple 8-bit CPU using discrete TTL ICs on breadboards. What started as an electronics project quickly became a deep interest in computer architecture CPU hardware. Now at the end of my PhD, I revisited the project in my free time and created an improved SoC-based, CMOS version on PCBs. This updated design will be provided to Ulster University so that others can interact with and learn how CPUs work at a basic level. The goal of this repo is to provide a learning CPU/SoC platform that others can use.
+Alongside my part-time undergraduate studies in Electrical & Electronic Engineering at Ulster University, I created a simple 8-bit CPU using discrete TTL ICs on breadboards. What started as an electronics project quickly became a deep interest in computer architecture CPU hardware. Now at the end of my PhD, I revisited the project in my free time and created an improved SoC-based, CMOS version on PCBs. This updated design will be provided to Ulster University so that others can interact with and learn how CPUs work at a basic level. The goal of this repo is to provide a learning CPU/SoC platform that others can use.
 
 The PCB board files are shared here if anybody wants to recreate the design. Additionally, a Python simulator and FPGA implementation of the CPU/SoC will also be shared here soon. This repository will host the complete open-source project including:
 
