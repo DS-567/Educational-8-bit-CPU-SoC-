@@ -36,7 +36,7 @@ A layout of the hardware setup can be viewed below:
 
 ## Architecture
 
-The architecture is shown below in more detail. The core CPU PCBs are printed blue and the SoC peripherals are printed black, as highlighted on the bottom of the diagram.
+The architecture is shown below in more detail. The core CPU PCBs are printed blue and the SoC peripherals are printed black, as highlighted on the diagram.
 
 <p align="center">
   <img src="images/architecture.PNG" alt="Architecture " width="900"/>
