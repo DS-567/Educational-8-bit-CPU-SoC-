@@ -102,7 +102,7 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
   - 2 external.
   - 1 UART.
   - 1 timer.
-- **All CPU states and registers are shown on LEDs**.
+- **CPU states and registers are shown on LEDs**.
 
 ---
 
