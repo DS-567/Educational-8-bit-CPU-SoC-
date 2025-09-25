@@ -19,15 +19,15 @@ Stores the result of all ALU operations, except from compare instructions where 
 - 5V / GND
 - Clock
 - Clear (*asynchronous - active high*)
-- Accumulator in (*synchronous - active low*)
-- Accumulator out (*asynchronous - active low*)
+- ACC in (*synchronous - active low*)
+- ACC out (*asynchronous - active low*)
 - 8-bit CPU bus
 
 ---
 
 ### Outputs
 
-- 8-bit accumulator contents (*to CPU bus*)
+- 8-bit ACC contents (*to CPU bus*)
 
 ---
 
@@ -41,16 +41,16 @@ Stores the result of all ALU operations, except from compare instructions where 
 ### PCB Views
 
 <p align="center">
-  <img src="../../images/acc_pcb_top.PNG" alt="accumulator pcb top" width="600"/>
+  <img src="../../images/acc_pcb_top.PNG" alt="ACC pcb top" width="600"/>
 </p>
-<p align="center"><em>Top view of the Accumulator PCB</em></p>
+<p align="center"><em>Top view of the ACC PCB</em></p>
 
 <p align="center">
-  <img src="../../images/acc_pcb_bottom.PNG" alt="accumulator pcb bottom" width="600"/>
+  <img src="../../images/acc_pcb_bottom.PNG" alt="ACC pcb bottom" width="600"/>
 </p>
-<p align="center"><em>Bottom view of the Accumulator PCB</em></p>
+<p align="center"><em>Bottom view of the ACC PCB</em></p>
 
 <p align="center">
-  <img src="../../images/acc_pcb_design.PNG" alt="accumulator pcb design" width="600"/>
+  <img src="../../images/acc_pcb_design.PNG" alt="ACC pcb design" width="600"/>
 </p>
-<p align="center"><em>Layout view of the Accumulator PCB</em></p>
+<p align="center"><em>Layout view of the ACC PCB</em></p>
