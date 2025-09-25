@@ -118,7 +118,6 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
 | `/simulator` | Python CPU/SoC simulator *(ongoing)*.                           |
 | `/fpga`      | FPGA implementation *(ongoing)*.                               |
 | `/docs`      | Documentation and tutorials *(ongoing)*.                       |
-| `/examples`  | Example programs *(ongoing)*.                                  |
 | `/images`    | Repo image folder.                                             |
 
 
