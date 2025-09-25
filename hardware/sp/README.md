@@ -33,6 +33,7 @@ Stores the address pointer in stack memory.
 
 ### PCB Spec
 
+- *Blue*
 - *2 layer*
 - *24.75 mm × 22.25 mm*
 
