@@ -7,7 +7,7 @@ Stores the result of all ALU operations, except from compare instructions where 
 ### Details
 
 - Synchronous 8-bit register (74HC173 4-bit IC x2)
-- Red LEDs
+- Red LEDs to show register contents
 - Tri-state output buffer (74HC245 IC)
 
 ---
