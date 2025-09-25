@@ -31,6 +31,7 @@ Stores the address for CPU memory accesses.
 
 ### PCB Spec
 
+- *Blue*
 - *2 layer*
 - *24.75 mm × 53 mm*
 
