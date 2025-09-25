@@ -2,7 +2,7 @@
 
 General purpose registers. All 3 registers are on a single PCB.
 
-[View schematic (PDF)](r0_r1_r2_schematic.pdf)
+[View schematic (PDF)](R0_R1_R2_schematic.pdf)
 
 ---
 
