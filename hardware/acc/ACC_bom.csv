@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,JLCPCB Part #
+1k,R1-8,R_0603_1608Metric,C21190
+10uF,C5,CP_Radial_D5.0mm_P2.00mm,
+0.1uF,"C1, C3-4",C_0603_1608Metric,C1590
+1uF,C2,C_0603_1608Metric,C5673
+74HC173,U4-5,SOIC-16_3.9x9.9mm_P1.27mm,C2677807
+74HC245,U3,TSSOP-20_4.4x6.5mm_P0.65mm,C5626
+red leds,D1-8,LED_1206_3216Metric,C125086
+Header-Male-2mm_1x8,"J1,J4",PinHeader_1x08_P2.00mm_Vertical,
+Header-Male-2mm_1x2,J2,PinHeader_1x02_P2.00mm_Vertical,
+Header-Male-2mm_1x4,J3,PinHeader_1x04_P2.00mm_Vertical,
