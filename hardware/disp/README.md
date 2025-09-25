@@ -1,6 +1,6 @@
 ## Display Register (DISP)
 
-Generates the clock and reset signals for the complete CPU and SoC hardware. UPDATE......
+Displays the contents of the Display register on a 4-digit, 7-segment display. A switch selects whether the byte is to be displayed as an unsigned or signed. The display bit must first be set in the peripheral enable resgister.
 
 [View schematic (PDF)](DISP_schematic.pdf)
 
@@ -8,8 +8,10 @@ Generates the clock and reset signals for the complete CPU and SoC hardware. UPD
 
 ### Details
 
-- 
-
+- Synchronous 8-bit register (74HC173 4-bit IC x2)
+- 555 timer and 2-bit synchronous counter (74HC74) to select the digit
+- 2-4 decoder (74HC138) drives the corresponding cathode through P-channel MOSFETs (AO3401A)
+- Pre-programmed EEPROM (AT28C64B) outputs sink the segments low through NPN BJTs (MMDT2222)
 
 ---
 
