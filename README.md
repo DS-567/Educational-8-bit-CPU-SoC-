@@ -114,7 +114,7 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
 | Folder     | Description                                                     |
 |------------|-----------------------------------------------------------------|
 | `/hardware`  | Schematics, board and Gerber files for the PCB implementation. |
-| `/software`  | Python-based assembler used to assemble CPU programs *(ongoing)*. |
+| `/software`  | Software for the CPU assembler / bootloader *(ongoing)*. |
 | `/simulator` | Python CPU/SoC simulator *(ongoing)*.                           |
 | `/fpga`      | FPGA implementation *(ongoing)*.                               |
 | `/docs`      | Documentation and tutorials *(ongoing)*.                       |
