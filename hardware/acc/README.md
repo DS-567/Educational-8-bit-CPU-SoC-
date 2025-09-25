@@ -2,7 +2,7 @@
 
 Stores the result of all ALU operations, except from compare instructions where the ALU result is discarded.
 
-[View schematic (PDF)](acc_schematic.pdf)
+[View schematic (PDF)](ACC_schematic.pdf)
 
 ---
 
