@@ -9,7 +9,7 @@ Stores the result of all ALU operations, except from compare instructions where 
 ### Details
 
 - Synchronous 4-bit register (74HC173 4-bit IC)
-- Red LEDs to show register contents
+- Green LEDs to show flags
 - Tri-state output buffer (74HC125 IC)
 
 ---
@@ -29,14 +29,15 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ### Outputs
 
-- 8-bit FLAG contents (*to CPU bus*)
+- 4-bit FLAG contents (*to CPU control unit - CU*)
+- 4-bit FLAG contents (*to CPU bus*)
 
 ---
 
 ### PCB Spec
 
-- *2 layer*
-- *24 mm × 60.25 mm*
+- *4 layer*
+- *24.25 mm × 60 mm*
 
 ---
 
