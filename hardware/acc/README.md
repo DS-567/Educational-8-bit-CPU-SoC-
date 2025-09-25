@@ -23,7 +23,7 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ---
 
-## Outputs
+### Outputs
 
 - 8-bit accumulator contents (to CPU bus)
 
@@ -31,26 +31,23 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ### PCB Dimensions
 
-24mm x 60.25mm
+24 mm x 60.25 mm
 
 ---
 
 ### PCB View
 
-**Top**
-
 <p align="center">
   <img src="../../images/acc_pcb_top.PNG" alt="accumulator pcb top" width="600"/>
 </p>
-
-**Bottom**
+<p align="center"><em>Top view of the Accumulator PCB</em></p>
 
 <p align="center">
   <img src="../../images/acc_pcb_bottom.PNG" alt="accumulator pcb bottom" width="600"/>
 </p>
-
-**Layout**
+<p align="center"><em>Bottom view of the Accumulator PCB</em></p>
 
 <p align="center">
   <img src="../../images/acc_pcb_design.PNG" alt="accumulator pcb design" width="600"/>
 </p>
+<p align="center"><em>Layout view of the Accumulator PCB</em></p>
