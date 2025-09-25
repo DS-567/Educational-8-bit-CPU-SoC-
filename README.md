@@ -84,6 +84,7 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
   - Push / pop.
   - Compare.
   - Unconditional jump / jump to sub-routine.
+  - Return from sub-routine / return from interrupt.
   - Conditional branches.
 - **Shared 8-bit data/address bus.**
 - **Supported addressing modes:**
