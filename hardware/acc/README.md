@@ -31,11 +31,11 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ### PCB Dimensions
 
-*24 mm x 60.25 mm*
+*24 mm × 60.25 mm*
 
 ---
 
-### PCB View
+### PCB Views
 
 <p align="center">
   <img src="../../images/acc_pcb_top.PNG" alt="accumulator pcb top" width="600"/>
