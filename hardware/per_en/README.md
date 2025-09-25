@@ -31,6 +31,7 @@ Stores the enable bits for the 5 SoC peripherals (DISP, LCD, I/O, UART and TIMER
 
 ### PCB Spec
 
+- *Black*
 - *2 layer*
 - *34 mm × 76.5 mm*
 
