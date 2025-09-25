@@ -35,6 +35,7 @@ Each register:
 
 ### PCB Spec
 
+- *Blue*
 - *4 layer*
 - *25.25 mm × 161 mm*
 
