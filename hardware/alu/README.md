@@ -33,7 +33,7 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ### PCB Spec
 
-- Blue
+- *Blue*
 - *4 layer*
 - *166.25 mm × 56.5 mm*
 
