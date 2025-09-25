@@ -8,6 +8,7 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ### Details
 
+- Data in select (74HC157 2-1 mux IC)
 - Synchronous 4-bit register (74HC173 4-bit IC)
 - Green LEDs to show flags
 - Tri-state output buffer (74HC125 IC)
