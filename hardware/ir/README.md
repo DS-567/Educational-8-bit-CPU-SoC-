@@ -31,7 +31,7 @@ Stores the instruction currently being executed by the CPU.
 
 ### PCB Spec
 
-- Blue
+- *Blue*
 - *2 layer*
 - *25 mm × 50.75 mm*
 
