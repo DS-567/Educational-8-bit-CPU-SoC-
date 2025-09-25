@@ -1,6 +1,6 @@
 ## Stack Pointer Register (SP)
 
-Stores the address of the current instruction being executed by the CPU.
+Stores the address pointer in stack memory.
 
 [View schematic (PDF)](SP_schematic.pdf)
 
@@ -9,7 +9,7 @@ Stores the address of the current instruction being executed by the CPU.
 ### Details
 
 - Asynchronous 8-bit up/down counter (74HC193 4-bit IC x2)
-- blue LEDs to show register contents
+- Blue LEDs to show register contents
 - Tri-state output buffer (74HC245 IC)
 
 ---
