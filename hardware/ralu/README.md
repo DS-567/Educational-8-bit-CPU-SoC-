@@ -9,7 +9,7 @@ Stores the A operand for an ALU operation.
 ### Details
 
 - Synchronous 8-bit register (74HC173 4-bit IC x2)
-- Blue LEDs to show register contents
+- Amber LEDs to show register contents
 
 ---
 
