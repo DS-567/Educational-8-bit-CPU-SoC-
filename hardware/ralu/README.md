@@ -31,6 +31,7 @@ Stores the A operand for an ALU operation.
 
 ### PCB Spec
 
+- *Blue*
 - *2 layer*
 - *25.25 mm × 57.25 mm*
 
