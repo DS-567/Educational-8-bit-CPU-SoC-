@@ -9,7 +9,7 @@ Stores the enable bits for the 5 SoC peripherals (DISP, LCD, I/O, UART and TIMER
 ### Details
 
 - Synchronous 5-bit register (74HC173 4-bit IC x2)
-- Yellow LEDs to show register contents
+- Red LEDs to show register contents
 
 ---
 
