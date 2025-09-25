@@ -16,22 +16,22 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 - 5V / GND
 - Clock
-- Clear (asynchronous - active high)
-- Accumulator in (synchronous - active low)
-- Accumulator out (asynchronous - active low)
+- Clear (*asynchronous - active high*)
+- Accumulator in (*synchronous - active low*)
+- Accumulator out (*asynchronous - active low*)
 - 8-bit CPU bus
 
 ---
 
 ### Outputs
 
-- 8-bit accumulator contents (to CPU bus)
+- 8-bit accumulator contents (*to CPU bus*)
 
 ---
 
 ### PCB Dimensions
 
-24 mm x 60.25 mm
+*24 mm x 60.25 mm*
 
 ---
 
