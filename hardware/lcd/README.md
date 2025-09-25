@@ -32,6 +32,7 @@ The CPU can write to and read from the LCD display. The LCD bit must first be se
 
 ### PCB Spec
 
+- *Black*
 - *2 layer*
 - *49.75 mm × 95.25 mm*
 
