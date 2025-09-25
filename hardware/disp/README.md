@@ -56,7 +56,3 @@ Displays the contents of the Display register on a 4-digit, 7-segment display. A
 </p>
 <p align="center"><em>Layout view of the DISP PCB</em></p>
 
-
-
-
-
