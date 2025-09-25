@@ -34,6 +34,7 @@ Displays the contents of the Display register on a 4-digit, 7-segment display. A
 
 ### PCB Spec
 
+- Black
 - *4 layer*
 - *34 mm × 79.25 mm*
 
