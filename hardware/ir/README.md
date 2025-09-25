@@ -9,7 +9,7 @@ Stores the instruction currently being executed by the CPU.
 ### Details
 
 - Synchronous 8-bit register (74HC173 4-bit IC x2)
-- blue LEDs to show register contents
+- Green LEDs to show register contents
 
 ---
 
