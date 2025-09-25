@@ -50,7 +50,7 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
 
 - **Variable clock speeds. Programs can be run in two modes:**
   - Single-step mode – step by step execution with a push button.
-  - Auto mode – run continuously with either a variable 555 timer clock (~1 Hz to 1 kHz) or a fixed 1 MHz oscillator.
+  - Auto mode – run continuously with either a variable 555 timer clock (~1 Hz to ~1kHz) or a fixed 1 MHz oscillator.
 - **Two programming modes:**
   - Manually with DIP switches to select memory address and instructions / data.
   - Automatically with a custom Arduino Nano PCB and shift registers.
