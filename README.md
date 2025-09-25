@@ -108,19 +108,18 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
 
 ## Repo Structure
 
-/hardware      -> Schematics, board and Gerber files for the PCB implementation.
+## Repo Structure
 
-/software      -> Python-based assembler used to assemble CPU programs (on-going).
+| Folder     | Description                                                     |
+|------------|-----------------------------------------------------------------|
+| `/hardware`  | Schematics, board and Gerber files for the PCB implementation. |
+| `/software`  | Python-based assembler used to assemble CPU programs *(ongoing)*. |
+| `/simulator` | Python CPU/SoC simulator *(ongoing)*.                           |
+| `/fpga`      | FPGA implementation *(ongoing)*.                               |
+| `/docs`      | Documentation and tutorials *(ongoing)*.                       |
+| `/examples`  | Example programs *(ongoing)*.                                  |
+| `/images`    | Repo image folder.                                             |
 
-/simulator     -> Python CPU/SoC simulator (on-going).
-
-/fpga          -> FPGA implementation (on-going).
-
-/docs          -> Documentation and tutorials (on-going).
-
-/examples      -> Example programs (on-going).
-
-/images        -> Repo image folder.
 
 ---
 
