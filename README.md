@@ -16,7 +16,7 @@ The PCB board files are shared here if anybody wants to recreate the design. Add
 
 🐍 A custom Python assembler.
 
-🖥️ A Python-based CPU emulator/simulator for replicating without the hardware.
+🖥️ A Python-based CPU simulator for replicating without the hardware.
 
 💻 An FPGA implementation of the CPU/SoC.
 
@@ -110,9 +110,9 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
 
 /hardware      -> Schematics, board and Gerber files for the PCB implementation.
 
-/assembler     -> Python-based assembler used to assemble programs for the CPU (on-going).
+/software      -> Python-based assembler used to assemble CPU programs (on-going).
 
-/emulator      -> Python CPU/SoC simulator (on-going).
+/simulator     -> Python CPU/SoC simulator (on-going).
 
 /fpga          -> FPGA implementation (on-going).
 
@@ -140,7 +140,7 @@ Build instructions will be provided for each of the CPU / SoC implementations:
 ⚠️ **Note, this project is still in progress and the following tasks are pending:**
 
 - [x] **Core CPU hardware.**
-- [ ] **SoC hardware design (just Timer PCB remaining).**
+- [ ] **SoC hardware (just Timer PCB remaining).**
 - [ ] **Updated Python assembler**.
 - [ ] **Python-based CPU/SoC simulator**.
 - [ ] **FPGA implementation**.
