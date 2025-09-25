@@ -34,6 +34,7 @@ Stores the address of the current instruction being executed by the CPU.
 
 ### PCB Spec
 
+- *Blue*
 - *2 layer*
 - *24.5 mm × 56.5 mm*
 
