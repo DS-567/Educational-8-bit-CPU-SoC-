@@ -33,7 +33,7 @@ Generates the clock and reset signals for the complete CPU and SoC hardware.
 
 ### PCB Spec
 
-- Green
+- *Green*
 - *4 layer*
 - *56 mm × 78 mm*
 
