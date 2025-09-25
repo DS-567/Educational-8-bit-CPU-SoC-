@@ -1,6 +1,6 @@
 ## Display Register (DISP)
 
-Displays the contents of the Display register on a 4-digit, 7-segment display. A switch selects whether the byte is to be displayed as an unsigned or signed. The display bit must first be set in the peripheral enable resgister.
+Displays the contents of the Display register on a 4-digit, 7-segment display. A switch selects whether the data is to be displayed as an unsigned or signed byte. The display bit must first be set in the peripheral enable resgister.
 
 [View schematic (PDF)](DISP_schematic.pdf)
 
