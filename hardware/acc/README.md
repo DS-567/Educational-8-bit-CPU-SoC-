@@ -12,6 +12,23 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ---
 
+### Inputs
+
+- 5V / GND
+- Clock
+- Clear (active high)
+- Accumulator in (active low)
+- Accumulator out (active low)
+- 8-bit CPU bus
+
+---
+
+## Outputs
+
+- 8-bit accumulator contents (to CPU bus)
+
+---
+
 ### PCB View
 
 **Top**
