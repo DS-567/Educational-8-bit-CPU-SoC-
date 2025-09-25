@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,JLCPCB Part #
+green led,D1-4,LED_1206_3216Metric,C364563
+1k,R1-4,R_0603_1608Metric,C21190
+10uF,C5,CP_Radial_D5.0mm_P2.00mm,
+1uF,C1,C_0603_1608Metric,C5673
+0.1uF,C2-4,C_0603_1608Metric,C1590
+74HC173,U1,SOIC-16_3.9x9.9mm_P1.27mm,C2677807
+74HC125,U2,SOIC-14_3.9x8.7mm_P1.27mm,C42322
+74HC157,U3,SOIC-16_3.9x9.9mm_P1.27mm,C6823
+Conn_01x02_Pin,J1,PinHeader_1x02_P2.00mm_Vertical,
+Conn_01x08_Pin,J2,PinHeader_1x08_P2.00mm_Vertical,
+Conn_01x04_Pin,J3,PinHeader_1x04_P2.00mm_Vertical,
+Conn_01x05_Pin,J4,PinHeader_1x05_P2.00mm_Vertical,
