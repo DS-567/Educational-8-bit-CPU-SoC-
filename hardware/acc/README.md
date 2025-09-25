@@ -29,6 +29,12 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 ---
 
+### PCB Dimensions
+
+24mm x 60.25mm
+
+---
+
 ### PCB View
 
 **Top**
