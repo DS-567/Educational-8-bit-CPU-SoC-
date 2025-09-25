@@ -28,6 +28,7 @@ Buffers and drives LEDs to show the 8-bit CPU / SoC bus.
 
 ### PCB Spec
 
+- Black
 - *2 layer*
 - *25.25 mm × 34.75 mm*
 
