@@ -10,7 +10,7 @@ Stores the address of the current instruction being executed by the CPU.
 
 - Synchronous 8-bit register (74HC173 4-bit IC x2)
 - blue LEDs to show register contents
-- buffer ??
+- Tri-state output buffer (74HC245 IC)
 
 ---
 
@@ -18,7 +18,7 @@ Stores the address of the current instruction being executed by the CPU.
 
 - 5V / GND
 - Clock
-- Clear (*asynchronous - active high*)
+- Clear (*asynchronous - active low*)
 - PC in (*synchronous - active low*)
 - PC increment (*synchronous - active high*)
 - PC out (*asynchronous - active low*)
