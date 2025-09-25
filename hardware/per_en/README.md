@@ -1,6 +1,6 @@
 ## Peripheral Enable Register (PER_EN)
 
-Stores the instruction currently being executed by the CPU.
+Stores the enable bits for the 5 SoC peripherals (DISP, LCD, I/O, UART and TIMER).
 
 [View schematic (PDF)](PER_EN_schematic.pdf)
 
