@@ -9,7 +9,7 @@ Stores the address for CPU memory accesses.
 ### Details
 
 - Synchronous 8-bit register (74HC173 4-bit IC x2)
-- blue LEDs to show register contents
+- Blue LEDs to show register contents
 
 ---
 
