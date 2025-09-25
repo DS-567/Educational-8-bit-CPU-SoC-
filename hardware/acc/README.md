@@ -16,9 +16,9 @@ Stores the result of all ALU operations, except from compare instructions where 
 
 - 5V / GND
 - Clock
-- Clear (active high)
-- Accumulator in (active low)
-- Accumulator out (active low)
+- Clear (asynchronous - active high)
+- Accumulator in (synchronous - active low)
+- Accumulator out (asynchronous - active low)
 - 8-bit CPU bus
 
 ---
