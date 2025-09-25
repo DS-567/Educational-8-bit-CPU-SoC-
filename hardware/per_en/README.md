@@ -1,4 +1,4 @@
-Peripheral Enable Register (PER_EN)
+## Peripheral Enable Register (PER_EN)
 
 Stores the instruction currently being executed by the CPU.
 
