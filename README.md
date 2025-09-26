@@ -138,9 +138,10 @@ Build instructions and user guides will be provided for each of the CPU / SoC im
 
 ⚠️ **Note, this project is still in progress and the following tasks are pending:**
 
-- [x] **Core CPU hardware.**
-- [ ] **SoC hardware (just Timer PCB remaining).**
-- [ ] **Updated Python assembler**.
-- [ ] **Python-based CPU/SoC simulator**.
-- [ ] **FPGA implementation**.
-- [ ] **C compiler**.
+- ✔️ **Core CPU hardware.**
+- ☐ **SoC hardware (just Timer PCB remaining).**
+- ☐ **Updated Python assembler**.
+- ❌ **Python-based CPU/SoC simulator**.
+- ❌ **FPGA implementation**.
+- ❌ **C compiler**.
+
