@@ -62,17 +62,17 @@ Performs the arithmetic or logic operation on the A and B operands, based on the
 ### PCB Views
 
 <p align="center">
-  <img src="../../images/alu_pcb_top.PNG" alt="ALU pcb top" width="600"/>
+  <img src="../../images/alu_pcb_top.PNG" alt="ALU pcb top" width="750"/>
 </p>
 <p align="center"><em>Top view of the ALU PCB</em></p>
 
 <p align="center">
-  <img src="../../images/alu_pcb_bottom.PNG" alt="ALU pcb bottom" width="600"/>
+  <img src="../../images/alu_pcb_bottom.PNG" alt="ALU pcb bottom" width="750"/>
 </p>
 <p align="center"><em>Bottom view of the ALU PCB</em></p>
 
 <p align="center">
-  <img src="../../images/alu_pcb_design.PNG" alt="ALU pcb design" width="600"/>
+  <img src="../../images/alu_pcb_design.PNG" alt="ALU pcb design" width="750"/>
 </p>
 <p align="center"><em>Layout view of the ALU PCB</em></p>
 
