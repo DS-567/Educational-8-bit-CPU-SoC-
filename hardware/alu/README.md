@@ -1,6 +1,6 @@
 ## Arithmetic and Logic Unit (ALU)
 
-Stores the result of all ALU operations, except from compare instructions where the ALU result is discarded. (UPDATE)
+Performs the arithmetic or logic operation on the A and B operands, based on the 3-bit ALU op select inputs and the ALU function select input. Generates flags based on the result of the operation.
 
 [View schematic (PDF)](ALU_schematic.pdf)
 
@@ -20,7 +20,7 @@ Stores the result of all ALU operations, except from compare instructions where 
 - 8-bit CPU bus
 - 3-bit ALU operation select
 - ALU function select
-- Carry flag from FLAG register (*to preserve during certain operations*)
+- Carry flag from FLAG register (*to preserve carry flag during certain operations*)
 
 ---
 
