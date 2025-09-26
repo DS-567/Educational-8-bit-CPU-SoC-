@@ -127,10 +127,10 @@ The architecture is shown below in more detail. The core CPU PCBs are printed bl
 
 Coming soon 👀
 
-Build instructions will be provided for each of the CPU / SoC implementations:
+Build instructions and user guides will be provided for each of the CPU / SoC implementations:
 - Hardware PCB version.
 - Python Simulator version.
-- And an FPGA version.
+- And the FPGA version.
 
 ---
 
