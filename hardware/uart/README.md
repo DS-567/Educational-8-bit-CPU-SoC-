@@ -8,22 +8,20 @@ UART peripheral capable of transmitting and receving bytes at a fixed baud rate 
 
 ### Details
 
+- 1.2288MHz oscillator
 - UART data frame -> 1 start bit, 8 data bits, 1 stop bit, no parity bits
-- 
-- ?? LEDs to show the UART byte received
+- Red LEDs to show the UART Rx byte received
+- Yellow LEDs to show the UART status bits (*Tx ready, Rx byte received and Rx byte overrun*)
 
 ---
 
 ### Inputs
 
-UPDATE ....
-
 - 5V / GND
 - Clock
 - Clear (*asynchronous - active high*) - NOT USED
 - Inverted clear (*asynchronous - active low*) - NOT USED
-- UART enable
-- 
+- UART enable (*asynchronous - active high*)
 - 8-bit CPU bus
 
 ---
