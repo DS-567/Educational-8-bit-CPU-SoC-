@@ -140,6 +140,7 @@ Build instructions and user guides will be provided for each of the CPU / SoC im
 
 - ✔️ **Core CPU hardware.**
 - ☐ **SoC hardware (just Timer PCB remaining).**
+- ☐ **CPU / SoC hardware documentation**.
 - ☐ **Updated Python assembler**.
 - ❌ **Python-based CPU/SoC simulator**.
 - ❌ **FPGA implementation**.
