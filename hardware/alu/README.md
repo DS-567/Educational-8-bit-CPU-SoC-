@@ -8,8 +8,28 @@ Performs the arithmetic or logic operation on the A and B operands, based on the
 
 ### Details
 
-- Synchronous 8-bit register (74HC173 4-bit IC x2)  (UPDATE)
-- Red LEDs to show register contents             (UPDATE)
+- Combinational ALU circuit
+- Red LEDs to show ALU result
+- Yellow LEDs to show ALU flags       
+
+<div align="center">
+
+**ALU Truth Table**
+
+| ALU Operation | ALU Operation Select | ALU Function Select |
+|:-------------:|:--------------------:|:-------------------:|
+|     `ADD`     |         000          |          0          |
+|     `SUB`     |         000          |          1          |
+|     `AND`     |         001          |          x          |
+|     `OR`      |         010          |          x          |
+|     `NOT`     |         011          |          x          |
+|     `SHR`     |         100          |          0          |
+|     `SHRA`    |         100          |          1          |
+|     `XOR`     |         110          |          x          |
+|     `INC`     |         111          |          0          |
+|     `DEC`     |         111          |          1          |
+
+</div>
 
 ---
 
