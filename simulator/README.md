@@ -1,3 +1,3 @@
-## Python Simulator
+## Python Emulator
 
 Coming soon 👀
