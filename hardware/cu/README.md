@@ -13,7 +13,7 @@ Generates all control signals for hardware components on the CPU/SoC. The contro
 - EEPROM output registers (74HC173 4-bit register ICs - x2 per EEPROM)
 - EEPROM output registers decoders (74HC138 ICs x2, 74HC238 ICs x1, 74HC154 ICs x2)
 - 3-bit step counter for multi-cycle instruction execution steps
-- Interrupt request issuer (74CH74 D-FF IC)
+- Interrupt request issuer (74CH74 D-FF IC x1)
 - Branch flag logic multiplexor (74HC151 8-1 mux IC x1)
 - White LEDs to show step counter
 - Green LEDs to show active control signals
