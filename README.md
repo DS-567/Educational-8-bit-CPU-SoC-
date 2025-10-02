@@ -6,9 +6,9 @@
 
 ## Project Overview
 
-Alongside my part-time undergraduate studies in Electrical & Electronic Engineering at Ulster University, I created a simple 8-bit CPU using discrete TTL ICs on breadboards. What started as an electronics project quickly became a deep interest in computer architecture CPU hardware. Now at the end of my PhD, I am revisiting the project in my free time and have created an improved SoC-based, CMOS version on PCBs. This updated design will be provided to Ulster University so that others can interact with and learn how CPUs work at the most basic level. The goal of this repo is to provide a learning CPU/SoC platform that others can use.
+Alongside my part-time undergraduate studies in Electrical & Electronic Engineering at Ulster University, I created a simple 8-bit CPU using discrete TTL ICs on breadboards. What started as an electronics project quickly became an interest in computer architecture and CPU hardware. Now at the end of my PhD, I revisited the project in my free time to create a CMOS version on PCBs with additional SoC peripherals. This updated design will be provided to Ulster University so that others can interact with and learn how CPUs work at the most basic level. The goal of this repo is to provide a learning CPU/SoC platform that others can use.
 
-🚧 **Still Work in Progress: Core CPU hardware is functional. The SoC peripherals are complete except for the TIMER PCB. Additionally, both the FPGA implementation and Python emulator are coming shortly! The project is worked on in free time**.
+🚧 **Repo is still a work in progress: Core CPU hardware is functional. The SoC peripherals are complete except for the TIMER PCB. Additionally, both the FPGA implementation and Python emulator are coming shortly! The project is worked on in free time**.
 
 The PCB board files are shared here if anybody wants to recreate the design. Additionally, a Python emulator and FPGA implementation of the CPU/SoC will also be shared here soon. This repository will host the complete open-source project including:
 
