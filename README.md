@@ -140,7 +140,7 @@ Build instructions and user guides will be provided for each of the CPU / SoC im
 
 ✔️ **Core CPU hardware**
 
-☐ **SoC hardware (just Timer PCB remaining)**
+☐ **SoC hardware (just the Timer PCB remaining)**
 
 ☐ **Updated Python assembler**
 
