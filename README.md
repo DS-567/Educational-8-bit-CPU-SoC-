@@ -132,7 +132,9 @@ Build instructions and user guides will be provided for each of the CPU / SoC im
 - Python Emulator version
 - And the FPGA version
 
-Reach out before using the PCBs as the hardware may still change: simpson-d12@ulster.ac.uk 
+Reach out before using the PCBs as the hardware may still change: simpson-d12@ulster.ac.uk.
+
+Or connect to my [LinkedIn](https://www.linkedin.com/in/david-simpson-040189221/) for an update when the repo is complete and ready for using.
 
 ---
 
