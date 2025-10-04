@@ -1,6 +1,6 @@
 ## Backplane
 
-Backplane with sockets for plugging in all the modular components of the CPU / SoC
+Backplane with sockets for plugging in all the modular components of the CPU / SoC, and routing of 5V/GND, clock, resets, control signals and the data bus.
 
 [View schematic (PDF)](BACKPLANE_schematic.pdf)
 
