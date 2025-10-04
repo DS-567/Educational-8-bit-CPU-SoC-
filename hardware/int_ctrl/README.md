@@ -66,17 +66,17 @@ Four interrupts are supported on this CPU: UART, timer and two external signals.
 ### PCB Views
 
 <p align="center">
-  <img src="../../images/int_ctrl_pcb_top.PNG" alt="INT_CTRL pcb top" width="750"/>
+  <img src="../../images/int_ctrl_pcb_top.PNG" alt="INT_CTRL pcb top" width="900"/>
 </p>
 <p align="center"><em>Top view of the INT_CTRL PCB</em></p>
 
 <p align="center">
-  <img src="../../images/int_ctrl_pcb_bottom.PNG" alt="INT_CTRL pcb bottom" width="750"/>
+  <img src="../../images/int_ctrl_pcb_bottom.PNG" alt="INT_CTRL pcb bottom" width="900"/>
 </p>
 <p align="center"><em>Bottom view of the INT_CTRL PCB</em></p>
 
 <p align="center">
-  <img src="../../images/int_ctrl_pcb_design.PNG" alt="INT_CTRL pcb design" width="750"/>
+  <img src="../../images/int_ctrl_pcb_design.PNG" alt="INT_CTRL pcb design" width="900"/>
 </p>
 <p align="center"><em>Layout view of the INT_CTRL PCB</em></p>
 
