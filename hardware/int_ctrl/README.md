@@ -1,6 +1,6 @@
 ## Interrupt Controller (INT_CTRL)
 
-Four interrupts are supported on this CPU: UART, timer and two external signals. The interrupt controller processes the asynchronous interrupts, notifies and issues the CPU with the highest priority interrupt that is pending. Interrupts use a vector table to allow the CPU to locate the correct software handler when an interrupt occurs. The CPU indexes a fixed table of vector addresses, which contain pointers to the interrupt service routines (ISRs).
+Four interrupts are supported on this CPU: ***UART, timer and two external signals***. The interrupt controller processes the asynchronous interrupts, notifies and issues the CPU with the highest priority interrupt that is pending. Interrupts use a vector table to allow the CPU to locate the correct software handler when an interrupt occurs. The CPU indexes a fixed table of vector addresses, which contain pointers to the interrupt service routines (ISRs).
 
 [View schematic (PDF)](INT_CTRL_schematic.pdf)
 
