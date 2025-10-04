@@ -22,8 +22,8 @@ Provides a quick method of verifying correct behaviour of PCBs, using DIP switch
 
 ### Outputs
 
-- 8-bit DIP switch (*to CPU bus or genenal control signal use*)
-- 8 single bit DIP switches (*genenal control signal use*)
+- 8-bit DIP switch (*to CPU bus or general control signal use*)
+- 8 single bit DIP switches (*general control signal use*)
 
 ---
 
