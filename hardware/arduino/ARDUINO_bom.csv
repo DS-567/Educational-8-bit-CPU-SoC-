@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,JLCPCB Part #
+1k,R1-3,R_0603_1608Metric,C21190
+0.1uF,C3,C_0603_1608Metric,C1590
+10k,R4-8,R_0603_1608Metric,C15401
+1uF,C2,C_0603_1608Metric,C5673
+green led,D1,LED_1206_3216Metric,C364563
+yellow leds,D2-3,LED_1206_3216Metric,C125087
+Push button,SW1,SW_PUSH_6mm,
+SW_DIP_x03,SW3,SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile,
+SW_DIP_x01,SW2,SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile,
+Arduino_Nano_Every,A1,Arduino_Nano,
+Conn_01x02_Pin,"J1, J4",PinHeader_1x02_P2.00mm_Vertical,
+Conn_01x04_Pin,J3,PinHeader_1x04_P2.00mm_Vertical,
