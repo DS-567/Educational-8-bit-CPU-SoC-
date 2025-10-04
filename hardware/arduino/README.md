@@ -55,17 +55,17 @@ The Arduino Nano is powered by a 5V on the Vin pin (pin 30). The problem occurs 
 ### PCB Views
 
 <p align="center">
-  <img src="../../images/arduino_pcb_top.PNG" alt="ARDUINO pcb top" width="750"/>
+  <img src="../../images/arduino_pcb_top.PNG" alt="ARDUINO pcb top" width="500"/>
 </p>
 <p align="center"><em>Top view of the ARDUINO PCB</em></p>
 
 <p align="center">
-  <img src="../../images/arduino_pcb_bottom.PNG" alt="ARDUINO pcb bottom" width="750"/>
+  <img src="../../images/arduino_pcb_bottom.PNG" alt="ARDUINO pcb bottom" width="500"/>
 </p>
 <p align="center"><em>Bottom view of the ARDUINO PCB</em></p>
 
 <p align="center">
-  <img src="../../images/arduino_pcb_design.PNG" alt="ARDUINO pcb design" width="750"/>
+  <img src="../../images/arduino_pcb_design.PNG" alt="ARDUINO pcb design" width="500"/>
 </p>
 <p align="center"><em>Layout view of the ARDUINO PCB</em></p>
 
