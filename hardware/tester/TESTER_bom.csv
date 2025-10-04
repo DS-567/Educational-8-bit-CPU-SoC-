@@ -1,0 +1,14 @@
+Comment,Designator,Footprint,JLCPCB Part #
+10uF,C3,CP_Radial_D5.0mm_P2.50mm,
+1uF,C1,C_0603_1608Metric,C5673
+0.1uF,C2,C_0603_1608Metric,C1590
+green (emerald) Leds,D1-8,LED_1206_3216Metric,C364563
+1k,"R3,R7,R20,R22,R18, R24, R17, R5",R_0603_1608Metric,C21190
+10k,"R16, R1, R13, R9, R11, R19, R2, R12, R4, R6, R23, R25,R14,R21, R10,R15,R8",R_0603_1608Metric,C15401
+SW_DIP_x01,SW1-8,SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile,
+74HC245,U1,SOIC-20W_7.5x12.8mm_P1.27mm,C10093
+Push button,SW10,SW_PUSH_6mm,
+SW_DIP_x08,SW9,SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile,
+Conn_01x02_Socket,J1,PinSocket_1x02_P2.54mm_Vertical,
+Conn_01x08_Socket,J2,PinSocket_1x08_P2.54mm_Vertical,
+Conn_01x08_Socket,J3,PinSocket_1x08_P2.54mm_Vertical,
